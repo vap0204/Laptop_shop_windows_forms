@@ -1,0 +1,10 @@
+C:\Users\Vesela Apostolova\Desktop\2101681070-VeselaApostolova-domashna rabota.Zad2\bin\Debug\2101681070-VeselaApostolova-domashna rabota.Zad2.exe.config
+C:\Users\Vesela Apostolova\Desktop\2101681070-VeselaApostolova-domashna rabota.Zad2\bin\Debug\2101681070-VeselaApostolova-domashna rabota.Zad2.exe
+C:\Users\Vesela Apostolova\Desktop\2101681070-VeselaApostolova-domashna rabota.Zad2\bin\Debug\2101681070-VeselaApostolova-domashna rabota.Zad2.pdb
+C:\Users\Vesela Apostolova\Desktop\2101681070-VeselaApostolova-domashna rabota.Zad2\obj\Debug\2101681070-VeselaApostolova-domashna rabota.Zad2.csproj.AssemblyReference.cache
+C:\Users\Vesela Apostolova\Desktop\2101681070-VeselaApostolova-domashna rabota.Zad2\obj\Debug\_2101681070_VeselaApostolova_domashna_rabota.Zad2.Form1.resources
+C:\Users\Vesela Apostolova\Desktop\2101681070-VeselaApostolova-domashna rabota.Zad2\obj\Debug\_2101681070_VeselaApostolova_domashna_rabota.Zad2.Properties.Resources.resources
+C:\Users\Vesela Apostolova\Desktop\2101681070-VeselaApostolova-domashna rabota.Zad2\obj\Debug\2101681070-VeselaApostolova-domashna rabota.Zad2.csproj.GenerateResource.cache
+C:\Users\Vesela Apostolova\Desktop\2101681070-VeselaApostolova-domashna rabota.Zad2\obj\Debug\2101681070-VeselaApostolova-domashna rabota.Zad2.csproj.CoreCompileInputs.cache
+C:\Users\Vesela Apostolova\Desktop\2101681070-VeselaApostolova-domashna rabota.Zad2\obj\Debug\2101681070-VeselaApostolova-domashna rabota.Zad2.exe
+C:\Users\Vesela Apostolova\Desktop\2101681070-VeselaApostolova-domashna rabota.Zad2\obj\Debug\2101681070-VeselaApostolova-domashna rabota.Zad2.pdb
